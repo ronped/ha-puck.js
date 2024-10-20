@@ -2,6 +2,7 @@
   "domain": "puckjs",
   "name": "Puck.js button and sensor",
   "documentation": "",
-  "requirements": [],
-  "codeowners": []
+  "requirements": ["aioblescan"],
+  "codeowners": [],
+  "version": "0.0.1"
 }
